@@ -12,6 +12,7 @@ sudo apt-get install libglfw3-dev
 ```
 ### GLAD
 Go to https://glad.dav1d.de/
+
 Move the **src/glad.c** file to src directory
 
 ### CGLM
@@ -24,7 +25,7 @@ make
 sudo make install
 ```
 ## Building the Project
-Run 
+Run **make** in the src directory
 ```
 make
 ```
