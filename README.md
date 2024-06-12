@@ -1,8 +1,8 @@
 # Boilerplate for OpenGL-based Projects
 Requires:
-GLFW
-[Glad](https://glad.dav1d.de/)
-[Cglm](https://github.com/recp/cglm)
+ - GLFW
+ - [Glad](https://glad.dav1d.de/) 
+ - [Cglm](https://github.com/recp/cglm)
 
 ## Installation of Libraries
 ### GLFW
