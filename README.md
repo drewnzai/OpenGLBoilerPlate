@@ -13,6 +13,8 @@ sudo apt-get install libglfw3-dev
 ### GLAD
 Go to https://glad.dav1d.de/
 
+Move the **include** directory to **/usr/include**
+
 Move the **src/glad.c** file to src directory
 
 ### CGLM
